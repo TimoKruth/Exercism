@@ -1,0 +1,4 @@
+/Users/timo/Exercism/cpp/rna-transcription/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/timo/Exercism/cpp/rna-transcription/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/timo/Exercism/cpp/rna-transcription/cmake-build-debug/CMakeFiles/test_rna-transcription.dir
+/Users/timo/Exercism/cpp/rna-transcription/cmake-build-debug/CMakeFiles/rna-transcription.dir

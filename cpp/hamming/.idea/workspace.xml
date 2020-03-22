@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+    <option name="showStatusBarWidget" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="hamming" targetName="test_hamming" />
+      <config projectName="hamming" targetName="hamming" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f21e0df4-f580-4bfd-a133-92e75b8d52ed" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1YkpTcvOjVB0pVkCra9cZurGl3w" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Catch.complete_hamming_distance_for_single_nucleotide_strand">
+    <configuration name="complete_hamming_distance_for_single_nucleotide_strand" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hamming" TARGET_NAME="hamming" RUN_TARGET_PROJECT_NAME="hamming" RUN_TARGET_NAME="hamming" TEST_METHOD="complete_hamming_distance_for_single_nucleotide_strand" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hamming" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hamming" TARGET_NAME="hamming" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="hamming" RUN_TARGET_NAME="hamming">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test_hamming" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hamming" TARGET_NAME="test_hamming" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.hamming" />
+      <item itemvalue="CMake Application.test_hamming" />
+      <item itemvalue="Catch.complete_hamming_distance_for_single_nucleotide_strand" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Catch.complete_hamming_distance_for_single_nucleotide_strand" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f21e0df4-f580-4bfd-a133-92e75b8d52ed" name="Default Changelist" comment="" />
+      <created>1583496455906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583496455906</updated>
+      <workItem from="1583496459259" duration="1480000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1187" height="245" key="GridCell.Tab.0.bottom" timestamp="1583498126123">
+      <screen x="0" y="23" width="1229" height="777" />
+    </state>
+    <state width="1187" height="245" key="GridCell.Tab.0.bottom/0.23.1229.777@0.23.1229.777" timestamp="1583498126123" />
+    <state width="1187" height="245" key="GridCell.Tab.0.center" timestamp="1583498126108">
+      <screen x="0" y="23" width="1229" height="777" />
+    </state>
+    <state width="1187" height="245" key="GridCell.Tab.0.center/0.23.1229.777@0.23.1229.777" timestamp="1583498126108" />
+    <state width="1187" height="245" key="GridCell.Tab.0.left" timestamp="1583498126107">
+      <screen x="0" y="23" width="1229" height="777" />
+    </state>
+    <state width="1187" height="245" key="GridCell.Tab.0.left/0.23.1229.777@0.23.1229.777" timestamp="1583498126107" />
+    <state width="1187" height="245" key="GridCell.Tab.0.right" timestamp="1583498126122">
+      <screen x="0" y="23" width="1229" height="777" />
+    </state>
+    <state width="1187" height="245" key="GridCell.Tab.0.right/0.23.1229.777@0.23.1229.777" timestamp="1583498126122" />
+    <state width="1187" height="245" key="GridCell.Tab.1.bottom" timestamp="1583498126127">
+      <screen x="0" y="23" width="1229" height="777" />
+    </state>
+    <state width="1187" height="245" key="GridCell.Tab.1.bottom/0.23.1229.777@0.23.1229.777" timestamp="1583498126127" />
+    <state width="1187" height="245" key="GridCell.Tab.1.center" timestamp="1583498126125">
+      <screen x="0" y="23" width="1229" height="777" />
+    </state>
+    <state width="1187" height="245" key="GridCell.Tab.1.center/0.23.1229.777@0.23.1229.777" timestamp="1583498126125" />
+    <state width="1187" height="245" key="GridCell.Tab.1.left" timestamp="1583498126124">
+      <screen x="0" y="23" width="1229" height="777" />
+    </state>
+    <state width="1187" height="245" key="GridCell.Tab.1.left/0.23.1229.777@0.23.1229.777" timestamp="1583498126124" />
+    <state width="1187" height="245" key="GridCell.Tab.1.right" timestamp="1583498126126">
+      <screen x="0" y="23" width="1229" height="777" />
+    </state>
+    <state width="1187" height="245" key="GridCell.Tab.1.right/0.23.1229.777@0.23.1229.777" timestamp="1583498126126" />
+    <state x="279" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1583497483326">
+      <screen x="0" y="23" width="1229" height="777" />
+    </state>
+    <state x="279" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1229.777@0.23.1229.777" timestamp="1583497483326" />
+  </component>
+</project>

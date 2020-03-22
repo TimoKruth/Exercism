@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/timo/Exercism/cpp/nucleotide-count/nucleotide_count.cpp
+nucleotide_count.h
+/Users/timo/Exercism/cpp/nucleotide-count/nucleotide_count.h
+utility
+-
+vector
+-
+
+/Users/timo/Exercism/cpp/nucleotide-count/nucleotide_count.h
+string
+-
+map
+-
+

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/timo/Exercism/cpp/reverse-string/reverse_string.cpp
+reverse_string.h
+/Users/timo/Exercism/cpp/reverse-string/reverse_string.h
+algorithm
+-
+
+/Users/timo/Exercism/cpp/reverse-string/reverse_string.h
+string
+-
+

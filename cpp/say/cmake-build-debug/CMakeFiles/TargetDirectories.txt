@@ -1,0 +1,4 @@
+/Users/timo/Exercism/cpp/say/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/timo/Exercism/cpp/say/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/timo/Exercism/cpp/say/cmake-build-debug/CMakeFiles/test_say.dir
+/Users/timo/Exercism/cpp/say/cmake-build-debug/CMakeFiles/say.dir
